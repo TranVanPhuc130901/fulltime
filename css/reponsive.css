@@ -1,0 +1,240 @@
+@media(min-width: 1120px) {
+header .wrp .res{display: none}
+}
+@media(max-width: 1119px) {
+    .wrp{padding: 0 15px}
+    .wrp1{padding: 0 15px}
+    header .wrp .datban2{color: #f05a28;background: url('./icon/giohangheader.png') no-repeat right 8px center #fff;border-radius: 4px;text-decoration: none;padding: 12px 36px 11px 11px;font-size:12px;text-transform: uppercase;margin-right: 17px; display: inline-block;}
+    header .wrp nav{position: fixed; width: 35%; height: 100%; background: #f05a28;top: 0; right: 0; z-index: 4; display: none;}
+    header .wrp nav .datban{display: none;}
+    header .wrp nav a{display: block; border-bottom: 1px solid #fff;}
+   
+}
+
+@media(max-width: 991px) {
+   
+
+}
+@media(max-width: 767px) {
+    header{padding: 10px 0;}
+    header .wrp .datban2{padding: 5px 36px 5px 11px}
+    footer .ft_cl2{width: 100%; border-top: 1px solid #fff; padding-top: 10px;}
+    footer .ft_cl2 img{width: 100%;}
+    .sec2_lienhe .wrp1 .col_l{margin-bottom: 15px;}
+    .sec2_tc .right{width: 100%;}
+    .sec1_shiphang .wrp .menu a,.sec1_lienhe2 .wrp .menu a,.sec1_datban .wrp .menu a{font-size: 15px; margin-right: 15px;}
+    .sec1_shiphang .titleG,.sec1_lienhe2 .titleG,.sec1_datban .titleG{font-size: 20px;}
+    .product_items .item{width: calc((100% - 15px)/2); margin-bottom: 15px;}
+    .banner .wrp, .sec1_tc .wrp{padding: 0;}
+    .sec2 .wrp .desKm{width: 100%; padding: 0 15px 15px 15px;}
+    .sec4_tc .right{width: 100%;}
+    .sec4_tc .left .danhgia{margin-bottom: 15px;}
+    .sec1_tintuc .wrp .nav_left a{ padding: 10px 20px;}
+    .sec2_tintuc .wrp .titleG{font-size: 23px;}
+    footer .ft_cl{width: 100%; padding-bottom: 20px; border-bottom: 1px solid #fff; margin-bottom: 15px;}
+    footer .ft_col{width: 50%; margin-bottom: 20px;}
+    footer .ft_cl1{width: 100%;}
+    .sec1_tc .all_box .box2 .gr_text .txt .number{font-size: 32.82px; width: 40px;}
+    .sec1_tc .all_box .box2 .gr_text .txt{width: 100%; margin-bottom: 30px;}
+    .sec1_tc .all_box .box2 .gr_text .txt .des{width: calc(100% - 45px); font-size: 8.88px;}
+    .sec_hd .wrp .txt span{font-size: 13px;}
+    .sec_hd .wrp img{width: 13px;}
+
+    .sec2 .wrp {padding: 0;}
+
+    .sec3_Km .gr_items .item{width: 100%;}
+    
+    .sec2_monngon .wrp{padding: 0;}
+    .sec3_monngon .wrp .if{font-size: 12.5px;}
+    .sec2_monngon{margin-bottom: 15px;}
+    .sec3_monngon .wrp{padding: 5px 15px;}
+    .sec3_monngon .wrp .desMn,.sec4_monngon .des{font-size: 13px;}
+    .sec4_monngon .titleMn{font-size: 13px;}
+    .sec4_monngon .gr_col{font-size: 16px; justify-content: center;}
+    .sec4_monngon .gr_col .col{width: 100%;}
+    .sec4_monngon .phan1, .sec4_monngon .phan2, .sec4_monngon .phan3, .sec4_monngon .phan4{margin-bottom: 30px;}
+    .sec5_monngon .wrp .col{width: 100%;}
+    
+    .sec5_monngon .wrp .left{margin-bottom: 20px;}
+    .sec5_monngon .wrp .right .item{padding: 20px 20px;}
+   
+    .sec5_monngon .left .title {font-size: 20.01px;}
+    .sec2_tintuc .wrp .gr_items .item{width: calc((100% - 15px)/2);margin-bottom: 15px;}
+
+    .sec3_noibat .wrp .gr_items .item{width: calc((100% - 15px)/2);}
+    .sec2_noibat .wrp .gr_img .WImage{width: calc(50% - 8px); margin-bottom: 16px;}
+    .sec1_chitiet .wrp1 .col{width: 100%;}
+    .sec1_chitiet .wrp1 .col img{width: 100%;}
+    .sec2_chitiet .wrp1 .col{width: 100%;}
+    .sec3_chitiet .wrp1 .item{width: calc((100% - 17px)/2);}
+    .sec3_menu2 .wrp1 .product_items .item{width: calc((100% - 20px)/2); margin-bottom: 20px;}
+    .sec2_lienhe .wrp1 .col{width: 100%;}
+    .sec1_lienhe2 .gr_col .col{width: 100%;}
+    .sec2_Km .gr_items .item{width: calc((100% - 20px)/2);margin-bottom: 20px;}
+    .sec1_Km2 .wrp .col{width: 100%;}
+    .sec1_shiphang .gr_col .col{width: 100%;}
+    .sec1_datban .gr_col .col{width: 100%; }
+    .sec2_chitiet .wrp1{flex-direction: column-reverse;}
+    .sec1_datban .gr_col .col_r{margin-bottom: 20px;}
+}
+@media (max-width: 714px){
+.sec1_tintuc .wrp .nav_left {
+    margin-bottom: 10px;
+}
+}
+@media(max-width: 478px) {
+    .sec2 .wrp  .boder{margin: 0 auto 15px;}
+    .sec3_monngon .wrp .if{margin-right: 0;}
+    .sec3_monngon .khauphan{display: flex; justify-content: space-between;}
+    .sec4_monngon .phan1, .sec4_monngon .phan2, .sec4_monngon .phan3, .sec4_monngon .phan4{margin-bottom: 20px;}
+    .sec_hd .wrp .txt span{background: url('./icon/next_mb.png') no-repeat left 5px center; padding-left: 18px;}
+    .sec4_monngon .txt img{width: 23px;height: 23px;}
+    .sec1_lienhe2 .gr_col form{padding: 30px 40px;}
+    .sec1_chitiet{margin-bottom: 20px;}
+    .sec2_chitiet{margin-bottom: 15px;}
+    .sec2_tintuc{margin-bottom: 5px;}
+    .sec2_tc{padding-bottom: 0;}
+    .sec2_tc .left{margin-bottom: 20px;}
+    .sec1_datban .gr_col .col_l{box-shadow: 1px 5px 8px 3px #848484}
+    .sec1_shiphang .titleG,.sec1_lienhe2 .titleG, .sec1_datban .titleG{margin-bottom: 5px;}
+    .sec1_shiphang .wrp .menu,.sec1_lienhe2 .wrp .menu,.sec1_datban .wrp .menu{margin-bottom: 15px;}
+    .sec3_menu2 .wrp1 .menu a{margin-right: 15px;}
+    .sec2_menu2{margin-bottom: 15px;}
+    .sec1_menu2 .titleA{margin-bottom: 5px;}
+    .sec4_chitiet{margin-bottom: 20px;}
+    .sec4_chitiet .wrp .WImage{margin-bottom: 10px;}
+    .sec3_chitiet{margin-bottom: 5px;}
+    .sec4_chitiet .play{width: 24px;}
+    .sec4_chitiet .WImage::after{position: relative;}
+    .sec3_Km .gr_items .item .title{margin-bottom: 5px;}
+    .sec3_Km .gr_items .item .boder{margin-bottom: 5px;}
+    .sec2_tintuc .wrp .icon img{width: 35px;height: 30px;}
+    .sec3_tc{padding-bottom: 0;}
+    .sec1_tc{padding-bottom: 5px;}
+    .sec4_tc .left .danhgia{margin-bottom: 0;}
+   .banner{margin-bottom: 15px;}
+    .sec1_datban .gr_col .titleD{font-size: 13.92px;}
+    .sec1_datban .gr_col .info table{font-size: 10px;}
+    .sec1_datban .gr_col .des{font-size: 10px;margin-bottom: 90px;}
+    .sec1_datban .gr_col .camon{font-size: 10.44px;}
+    .sec1_lienhe2 .gr_col form button,.sec1_shiphang .col_r .btnD{font-size: 13.33px;}
+    .sec1_lienhe2 .gr_col form input,.sec1_shiphang .gr_col .col_l form input{padding: 6px 14px;}
+    .sec1_lienhe2 .wrp .menu a,.sec1_datban .wrp .menu a{font-size: 9.77px;}
+    .sec2_chitiet .wrp1 .col .titleG{font-size: 31.25px;text-align: right;}
+    .sec2_chitiet .wrp1 .col .des{font-size: 10.94px; text-align: right;}
+    .sec3_chitiet .wrp1 .item .title{font-size: 9.59px;}
+    .sec2_chitiet .wrp1 .col .price{display: none;}
+    .sec3_chitiet .wrp1 .item .des{font-size: 6.59px;}
+    .sec1_chitiet .wrp1 .col .btn,.sec4_chitiet .wrp .btn{font-size: 15.55px;}
+    .sec1_menu2 .titleA{font-size: 13.06px;}
+    .sec1_menu2 .desA{font-size: 13px; margin-bottom: 10px;}
+    .sec3_menu2 .wrp1 .menu a{font-size: 15.03px; padding: 4px 15px;}
+    .lienhe_banner .WImage {margin: -25px auto 15px auto;}
+    .sec1_lienhe2 .gr_col form{margin-bottom: 30px; box-shadow: 1px 5px 8px 3px #848484}
+    .sec1_lienhe2 .gr_col .col{margin-bottom: 15px;}
+    .sec2_Km{margin-bottom: 10px;}
+    .sec2_Km .wrp1 .txtK{margin-bottom: 30px;}
+    .sec1_Km2 .bd2{border: none;}
+    .sec1_Km2{margin-bottom: 30px; }
+    .sec1_Km2 .wrp{margin-bottom: 0; }
+    .sec_hd .wrp{padding: 6px 15px;}
+    .sec1_shiphang{margin-bottom: 15px;}
+    .sec1_shiphang .col_r .btnD{margin-bottom: 5px;}
+    /* .sec3_menu2 .wrp1 .page{margin-bottom: 20px;} */
+    .sec3_menu2 .wrp1 .menu{margin-bottom: 20px;}
+    .sec2_lienhe .wrp1 .titleG{font-size: 24.39px;margin-bottom: 20px;background: url('./icon/boder_lienhe_rp.png') no-repeat bottom center; padding-bottom: 8px;}
+    .sec2_lienhe .wrp1 .col_r .title{font-size: 26.03px;}
+    .sec2_lienhe .wrp1 .col_r label{font-size: 15.77px;}
+    .sec2_lienhe .wrp1 .col_r input{padding: 8px 0;}
+    .sec2_lienhe .wrp1 .col_r button{font-size: 15.77px;margin-bottom: 20px;}
+    .sec2_lienhe .wrp1 .col_l .title{font-size: 15.75px;}
+    .sec2_lienhe .wrp1 .col_l address{font-size: 11.69px;}
+    .sec1_Km .titleK{font-size: 13.67px;}
+    .sec1_Km .desK{font-size: 10.01px;margin-bottom: 15px;}
+    .sec1_Km .btn{font-size: 10.11px;}
+    .sec2_Km .gr_items .item .title{font-size: 9.83px;text-align: center;}
+    .sec1_Km2 .wrp .col .ma{font-size: 11.77px;}
+    .sec1_Km2 .wrp .col .titleG{font-size: 25.74px;}
+    .sec1_Km2 .wrp .col .des{font-size: 7.85px;}
+    .sec1_Km2 .wrp .col .des2{font-size: 8.74px;}
+    .sec1_Km2 .wrp .col .btn{font-size: 9.67px;}
+    .sec2_Km .wrp1 .titleG2{font-size: 9.08px;}
+    .sec2_Km .wrp1 .txtK img{width: 10px;}
+    .sec2_Km .wrp1 .txtK img:first-child{margin-right: 15px;}
+    .sec2_Km .wrp1 .txtK img:last-child{margin-left: 15px;}
+    .sec1_shiphang .titleG{font-size: 20.47px;}
+    .sec1_shiphang .wrp .menu a{font-size: 9.77px;}
+    .sec1_shiphang .gr_col{padding: 10px;}
+    .sec1_shiphang .gr_col .col_l form button{font-size: 12.3px; display: none;}
+    .sec1_shiphang .gr_col .col_l form{margin-bottom: 0px;}
+    .sec3_menu2 .wrp1 .page a{font-size: 15px; padding: 2px 8px;}
+    .sec1_menu2 .desA img{height: 13px;}
+    .sec5_monngon .wrp .right .item .qoute{font-size: 99.55px;}
+    .sec5_monngon .wrp .right .titleR{font-size: 14.43px;}
+    .sec5_monngon .wrp .right .info .name_A .name{font-size: 10.75px;}
+    .sec5_monngon .wrp .right .info .name_A .des{font-size: 7.66px;}
+    .sec5_monngon .wrp .left .titleS4{font-size: 17.69px;}
+    .sec5_monngon .wrp .left .desS4{font-size: 8.76px;}
+    .sec5_monngon .wrp .left .danhgia{font-size: 11.75px;}
+    .sec3_Km .gr_items .item .title{font-size: 13.94px;}
+    .sec3_Km .gr_items .item .des{font-size: 8.36px;}
+    .titleKm{font-size: 13px; margin-bottom: 10px;}
+    .sec2 .wrp .desKm{font-size: 13px;padding-bottom: 15px;}
+    .sec_hd .wrp .txt span{font-size: 8px;}
+    .sec_hd .wrp img{width: 10px;}
+    header {margin-bottom: 5px;}
+    .sec1_tc .titleA{font-size: 13.28px; font-weight: 700; margin-bottom: 5px;}
+    .sec1_tc .desA{font-size: 10px; margin-bottom: 15px;}
+    .sec1_tc .wrp .desA img, .sec1_menu2 .wrp .desA img{height: 10px; width: 15px;}
+    .sec1_tc .boxZ{font-size: 10.08px;}
+    .sec1_tc .boxZ .btn{min-width: 78px; padding: 11px 0;}
+    .sec1_tc .all_box .box1{padding: 15px;}
+    .sec1_tc .ip_search{margin-bottom: 15px;}
+    .sec1_tc .ip_search input::placeholder {font-size: 11.09px;}
+    .sec1_tc .ip_search input::-ms-input-placeholder {font-size: 11.09px;}
+    .sec1_tc .ip_search input::-webkit-input-placeholder {font-size: 11.09px;}
+    .sec1_tc .ip_search button{ width: 33px;height: 27px;padding: 0;background: url('./icon/icon_search_mb.png') no-repeat center center}
+    .sec1_tc .ip_search input{ width: calc(100% - 33px);padding: 0 10px;}
+    .product_items .item .title{font-size: 11.13px;}
+    .product_items .item .price .pr_txt{font-size: 11.16px; background: url('./icon/icon_cart_mb.png') no-repeat right 10px center;}
+    .product_items .item .btn a{font-size: 9.38px;}
+    .sec2_tintuc .wrp .titleG{font-size: 18.16px;}
+    .sec2_tintuc .wrp .titleG{margin-bottom: 10px;}
+    .sec2_tintuc .wrp .gr_items .item .title{font-size: 10.38px;}
+    .sec5_monngon{margin-bottom: 50px;}
+    .sec2_tc .right .titleS2{font-size: 23.69px;}
+    .sec2_tc .right .desS2{font-size: 8.52px;margin-bottom: 25px;}
+    .sec2_tc .right .item .title{font-size: 13.02px;}
+    .sec2_tc .right .item .des{font-size: 7.81px;}
+    .sec2_tc .right .item{margin-bottom: 35px;}
+    .sec3_tc .titleS3 span{font-size: 18.51px; padding: 7px 56px 6px 29px}
+    .sec_hd{margin-bottom: 5px;}
+    .sec_mn{margin-bottom: 25px;}
+    .sec2 .wrp  .boder{width: calc(100% - 30px)}
+    .sec4_tc .left .titleS4{font-size: 17.69px; line-height: 25px;}
+    .sec4_tc .left .desS4{font-size: 8.76px;}
+    .sec4_tc .left .danhgia{font-size: 11.75px;}
+    .sec4_tc .left{margin-bottom: 20px;}
+    .sec4_tc .right .item{padding: 30px 20px;}
+    .sec4_tc .right .item .qoute{font-size: 99.55px;}
+    .sec4_tc .right .titleR{font-size: 14.43px;}
+    .sec4_tc .right .info .name_A .name{font-size: 10.75px;}
+    .sec4_tc .right .info .name_A .des{font-size: 7.66px;}
+    .sec2_tintuc .wrp .icon{margin-bottom: 0;}
+    .sec1_tintuc .wrp .nav_left a{font-size: 8.09px;padding: 7px 5px; margin-right: 6px;}
+    .sec1_tintuc .wrp .nav_right{width: 78px;}
+    .sec1_tintuc{margin-bottom: 15px;}
+    .sec1_tintuc .wrp .nav_right input{padding: 0 10px; padding: 5px;}
+    .sec1_tintuc .wrp .nav_right input::placeholder{font-size: 8.09px; text-align: center;}
+    .sec1_tintuc .wrp .nav_right button{display: none;}
+    .sec1_tintuc .wrp .nav_left{margin-bottom: 0;}
+    footer{padding: 15px 0;}
+    .sec2_tintuc .wrp .titleG{font-size: 18.76px;}
+    .sec4_tc{padding-bottom: 55px;}
+    .sec4_monngon .phan1 .gr_col .col:first-child{margin-bottom: 25px;}
+    .sec4_monngon .phan1 .gr_col .col{margin-left: 50px;}
+    .sec3_noibat .wrp .gr_items .item .time{font-size: 8px;margin-bottom: 7px;}
+}
+@media(max-width: 375px) {
+
+}
